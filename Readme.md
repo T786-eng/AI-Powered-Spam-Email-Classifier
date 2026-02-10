@@ -39,3 +39,17 @@ According to the provided dataset, the distribution is as follows:
 * **Example Spam Detection: "WINNER! You won a £1000 prize" -> Spam 🚩**
 
 * **Example Ham Detection: "Hey, are we still meeting later?" -> Ham (Normal) ✅**
+
+
+
+* **Algorithm: Multinomial Naive Bayes (optimized for text classification)**
+
+* **Preprocessing: Text vectorization using CountVectorizer**
+
+
+* **Visualizations: Automated generation of Confusion Matrices and distribution plots using Matplotlib and Seaborn**
+
+* **Performance: Achieved high precision and recall, effectively minimizing "False Positives"**
+**(important for ensuring real emails aren't marked as spam)**
+
+
